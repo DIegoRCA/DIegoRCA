@@ -1,5 +1,5 @@
 - ### Hi, I’m Diego 🖐
-<img src="DiegoRCA.md" align="right" width="450"/>
+<img src="[DiegoRCA.md](https://github.com/DIegoRCA/DIegoRCA/blob/main/diego.png)" align="right" width="450"/>
 I'm a React developer
 
 
