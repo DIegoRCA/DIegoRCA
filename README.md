@@ -1,7 +1,7 @@
 <img src="https://github.com/DIegoRCA/DIegoRCA/blob/main/diego.png" align="right"  width="450"/>
 
 ### Hi, I’m Diego 👋!
-Passionate **front-end developer** with a desire to learn and grow in a collaborative team environment. Skilled in **React, Express, Bootstrap, NPM, HTML, CSS, and JavaScript**. Excels at creating pixel-perfect designs and working with cross-browser compatibility issues. 
+Passionate **frontend developer** with a desire to learn and grow in a collaborative team environment. Skilled in **React, Express, Bootstrap, NPM, HTML, CSS, and JavaScript**. Excels at creating pixel-perfect designs and working with cross-browser compatibility issues. 
 
 ### Programing languages:
 <p>
