@@ -1,5 +1,5 @@
 - ### Hi, I’m Diego 🖐
-
+<img src="DiegoRCA.md" align="right" width="450"/>
 I'm a React developer
 
 
