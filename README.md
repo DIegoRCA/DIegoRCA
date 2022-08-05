@@ -3,7 +3,7 @@
 ### Hi, I’m Diego 👋!
 Passionate **frontend developer** with a desire to learn and grow in a collaborative team environment. Skilled in **React, Express, Bootstrap, NPM, HTML, CSS, and JavaScript**. Excels at creating pixel-perfect designs and working with cross-browser compatibility issues. 
 
-🔧### Things I work with:
+🔧 **Things I work with:**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
