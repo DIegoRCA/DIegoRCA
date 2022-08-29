@@ -1,7 +1,7 @@
 <img src="https://github.com/DIegoRCA/portfolio/blob/main/src/assets/diego.gif" align="right"  width="300"/>
 
 ### Hi, I’m Diego 👋!
-Passionate **frontend developer** with a desire to learn and grow in a collaborative team environment. Skilled in **React, Express, Bootstrap, NPM, HTML, CSS, and JavaScript**. Excels at creating pixel-perfect designs and working with cross-browser compatibility issues. 
+In my university days, I started coding (HTML, CSS & JS) at the same time as designing and printing, life and work led me to specialize in design and printing, in which I have achieved a level of expertise, with good manners for customer management, suppliers and staff. With the past periods of change and adaptation during the pandemic, my passion for coding was awakened, and I began to prepare for the career change both mentally and through studies and a lot of hours and nights of practice. I am looking for the opportunity to demonstrate my knowledge by adding value to the project and growing as a professional developer.
 
 🔧 **Things I work with:**
 <p>
@@ -14,6 +14,8 @@ Passionate **frontend developer** with a desire to learn and grow in a collabora
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next-00000F?style=for-the-badge&logo=next&logoColor=white" />
+
 </p>
 
 <!---
